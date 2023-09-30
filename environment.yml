@@ -1,0 +1,24 @@
+name: cbi2023
+channels:
+  - conda-forge
+dependencies:
+  - python==3.10
+  - rdkit
+  - chembl_structure_pipeline
+  - ca-certificates
+  - openssl
+  - jupyter
+  - certifi
+  - xlrd
+  - xlsxwriter
+  - pdfrw
+  - fpdf
+  - pymol-open-source
+  - matplotlib
+  - scikit-learn
+  - openpyxl
+  - bokeh
+  - opentsne
+  - lightgbm
+  - optuna
+  - jupyterlab 
