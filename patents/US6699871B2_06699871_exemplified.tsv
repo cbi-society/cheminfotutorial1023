@@ -1,0 +1,27 @@
+#SMILES	StructureSource	IdentifierType	IdentifierValue
+C1=C(C(=CC(=C1)C[C@H](CC(N2CCN3C(C2)=NC(=C3)C(F)(F)F)=O)N)F)F.Cl.Cl	US06699871-20040302-C00016.CDX	Example	1
+Cl.Cl.N[C@@H](CC(=O)N1CC=2N(CC1)C=C(N2)C(F)(F)F)CC2=CC(=C(C=C2)F)F	7-[(3R)-3-Amino-4-(3,4-difluorophenyl)butanoyl]-2-(trifluoromethyl)-5,6,7,8-tetrahydroimidazo[1,2-α]pyrazine, dihydrochloride	Example	1
+C1(=CC=C(C(=C1)C[C@H](CC(N2CCN3C(C2)=NC(=C3)C(F)(F)F)=O)N)F)F.Cl.Cl	US06699871-20040302-C00017.CDX	Example	2
+Cl.Cl.N[C@@H](CC(=O)N1CC=2N(CC1)C=C(N2)C(F)(F)F)CC2=C(C=CC(=C2)F)F	7-[(3R)-3-Amino-4-(2,5-difluorophenyl)butanoyl]-2-(trifluoromethyl)-5,6,7,8-tetrahydroimidazo[1,2-α]pyrazine, dihydrochloride	Example	2
+C1(=C(C=C(C(=C1)C[C@H](CC(N2CCN3C(C2)=NC(=C3)C(F)(F)F)=O)N)F)F)F.Cl.Cl	US06699871-20040302-C00018.CDX	Example	3
+Cl.Cl.N[C@@H](CC(=O)N1CC=2N(CC1)C=C(N2)C(F)(F)F)CC2=C(C=C(C(=C2)F)F)F	7-[(3R)-3-Amino-4-(2,4,5-trifluorophenyl)butanoyl]-2-(trifluoromethyl)-5,6,7,8-tetrahydroimidazo[1,2-α]pyrazine, dihydrochloride	Example	3
+C1=C(C(=CC(=C1)C[C@H](CC(N2CCN3C(C2)=NC=C3)=O)N)F)F.Cl.Cl	US06699871-20040302-C00019.CDX	Example	4
+Cl.Cl.N[C@@H](CC(=O)N1CC=2N(CC1)C=CN2)CC2=CC(=C(C=C2)F)F	7-[(3R)-3-Amino-4-(3,4-difluorophenyl)butanoyl]-5,6,7,8-tetrahydroimidazo[1,2-α]pyrazine, dihydrochloride	Example	4
+C1=C(C(=CC(=C1)C[C@H](CC(N2CCN3C(C2)=NN=C3CC)=O)N)F)F.Cl.Cl	US06699871-20040302-C00020.CDX	Example	5
+Cl.Cl.N[C@@H](CC(=O)N1CC=2N(CC1)C(=NN2)CC)CC2=CC(=C(C=C2)F)F	7-[(3R)-3-Amino-4-(3,4-difluorophenyl)butanoyl]-3-ethyl-5,6,7,8-tetrahydro-1,2,4-triazolo[4,3-α]pyrazine, dihydrochloride	Example	5
+C1(=CC=C(C(=C1)C[C@H](CC(N2CCN3C(C2)=NN=C3C(F)(F)F)=O)N)F)F.Cl	US06699871-20040302-C00021.CDX	Example	6
+Cl.N[C@@H](CC(=O)N1CC=2N(CC1)C(=NN2)C(F)(F)F)CC2=C(C=CC(=C2)F)F	7-[(3R)-3-Amino-4-(2,5-difluorophenyl)butanoyl]-3-(trifluoromethyl)-5,6,7,8-tetrahydro-1,2,4-triazolo[4,3-α]pyrazine, hydrochloride	Example	6
+C1(=C(C=C(C(=C1)C[C@H](CC(N2CCN3C(C2)=NN=C3C(F)(F)F)=O)N)F)F)F.Cl	US06699871-20040302-C00022.CDX	Example	7
+Cl.N[C@@H](CC(=O)N1CC=2N(CC1)C(=NN2)C(F)(F)F)CC2=C(C=C(C(=C2)F)F)F	7-[(3R)-3-Amino-4-(2,4,5-trifluorophenyl)butanoyl]-3-(trifluoromethyl)-5,6,7,8-tetrahydro-1,2,4-triazolo[4,3-α]pyrazine, hydrochloride	Example	7
+C1=CC=CC(=C1C[C@H](CC(N2CCN3C(C2)=NC(CC)=C3[H])=O)N)F	TABLE-US-00001:0:US06699871-20040302-C00023.CDX:R1:H, R3:2-F, X:C-Et	Example	8
+C1=CC=CC(=C1C[C@H](CC(N2CCN3C(C2)=NC=C3[H])=O)N)F	TABLE-US-00001:2:US06699871-20040302-C00023.CDX:R1:H, R3:2-F, X:CH	Example	10
+C1=CC=CC(=C1C[C@H](CC(N2CCN3C(C2)=NC(C(F)(F)F)=C3[H])=O)N)F	TABLE-US-00001:3:US06699871-20040302-C00023.CDX:R1:H, R3:2-F, X:C-CF3	Example	11
+C1=CC=CC(=C1C[C@H](CC(N2CCN3C(C2)=NN=C3CC)=O)N)F	TABLE-US-00001:10:US06699871-20040302-C00023.CDX:R1:Et, R3:2-F, X:N	Example	18
+C1=CC=CC(=C1C[C@H](CC(N2CCN3C(C2)=NN=C3C)=O)N)F	TABLE-US-00001:12:US06699871-20040302-C00023.CDX:R1:Me, R3:2-F, X:N	Example	20
+C1=CC=CC(=C1C[C@H](CC(N2CCN3C(C2)=NN=C3[H])=O)N)F	TABLE-US-00001:14:US06699871-20040302-C00023.CDX:R1:H, R3:2-F, X:N	Example	22
+C1=CC=CC(=C1C[C@H](CC(N2CCN3C(C2)=NC=C3CC4=CC=CC=C4)=O)N)F	TABLE-US-00001:20:US06699871-20040302-C00023.CDX:R1:CH2Ph, R3:2-F, X:CH	Example	28
+C1=CC=CC(=C1C[C@H](CC(N2CCN3C(C2)=NC=C3C4=CC=CC=C4)=O)N)F	TABLE-US-00001:21:US06699871-20040302-C00023.CDX:R1:Ph, R3:2-F, X:CH	Example	29
+C1(=CC=C(C(=C1)C[C@H](CC(O)=O)NC(OC(C)(C)C)=O)F)F	US06699871-20040302-C00012.CDX	Intermediate	1
+C1=C(C=C(C(=C1)C[C@H](CC(O)=O)NC(OC(C)(C)C)=O)F)C(F)(F)F	US06699871-20040302-C00013.CDX	Intermediate	2
+C1(=C(C=C(C(=C1)C[C@H](CC(O)=O)NC(OC(C)(C)C)=O)F)F)F	US06699871-20040302-C00014.CDX	Intermediate	3
+C1(=C(C=C(C(=C1)C[C@H](CC(O)=O)NC(OC(C)(C)C)=O)F)Br)F	US06699871-20040302-C00015.CDX	Intermediate	4
