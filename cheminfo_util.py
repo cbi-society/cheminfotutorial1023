@@ -21,7 +21,10 @@ def prep_moleclue(mol, canon_taut=True, get_large_frag=True):
     @return tautomar canonicalized and standardized rdkit mol object
     """
     molprops = mol.GetPropsAsDict()
-    molname = mol.GetProp('_Name')
+    if mol.HasProp('_Name'):
+        molname = mol.GetProp('_Name')
+    else:
+        molname = ""
     if canon_taut:
         mol = rdMolStandardize.CanonicalTautomer(mol)
     std_mol = standardize_mol(mol)
