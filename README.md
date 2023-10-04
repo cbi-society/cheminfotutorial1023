@@ -25,37 +25,17 @@ material for cheminfo tutorial
 3. 公共データを利用したVirtual Screeningの実施
 
 ## Prepare environments
- - 基本的にJupyterを使いチュートリアルを進めますが、別途コードを書く際にお好みのエディターをインストールしておくとよいかと思います。（VSCodeなど)
- - environments.ymlに記載してあるパッケージと合わせてuseful_rdkit_utils, vsflowのインストールが必要です。
+ - 基本的にJupyterを使いチュートリアルを進めますが、別途コードを書く際にお好みのエディターをインストールしておくとよいかと思います。(VSCodeなど)
+ - environments.ymlに記載してあるパッケージと合わせてvsflowのインストールが必要です。
  - 下記を参考に環境構築を事前に行ってきて下さい。うまく行かない場合は当日相談に乗ります。
  - 以下の例はCondaを利用した環境構築の手順です。condaを利用されない方は適宜必要なものを入れて下さい。
 ```
 $ conda config --append channels conda-forge
 $ conda env create -f environmnent.yml
 $ conda activate cbi2023
-$ git clone https://github.com/PatWalters/useful_rdkit_utils.git
-$ cd useful_rdkit_utils
-
-### setup.py 50行目からの部分でrdkit、Jupyter、Numpy、Pandasをコメントアウトします。
-
-    # Additional entries you may want simply uncomment the lines you want and fill in the data
-    # url='http://www.my_package.com',  # Website
-    install_requires = [
-        #'numpy',
-        #'rdkit',
-        #'pandas',
-        'pystow',
-    ],
-    extra_requires = {
-        'viz': ['py3DMol', 'Pillow', 'seaborn'],
-        #'jupyter': ['jupyter'],
-        'cli': ['click']
-    },
 
 ### 下記のコマンドを実行
 
-$ pip install .
-$ cd ../
 $ git clone https://github.com/czodrowskilab/VSFlow.git
 $ cd VSFlow
 $ pip install .
