@@ -27,8 +27,8 @@ material for cheminfo tutorial
 ## Prepare environments
  - 基本的にJupyterを使いチュートリアルを進めます
  - environments.ymlに記載してあるパッケージと合わせてvsflowのインストールが必要です。
- - 下記を参考に環境構築を事前に行ってきて下さい。うまく行かない場合は当日相談に乗ります。
- - 以下の例はCondaを利用した環境構築の手順です。condaを利用されない方は適宜必要なものを入れて下さい。
+ - 下記を参考に環境構築を事前に行ってきて下さい。うまく行かない場合は当日までに[Discussions](https://github.com/cbi-society/cheminfotutorial1023/discussions)で質問してもらえれば対応します。
+
 ```
 $ conda config --append channels conda-forge
 $ conda env create -f environmnent.yml
