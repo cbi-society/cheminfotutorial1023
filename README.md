@@ -31,7 +31,7 @@ material for cheminfo tutorial
 
 ```
 $ conda config --append channels conda-forge
-$ conda env create -f environmnent.yml
+$ conda env create -f environment.yml
 $ conda activate cbi2023
 
 ### 下記のコマンドを実行
