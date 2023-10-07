@@ -24,3 +24,4 @@ dependencies:
   - pip
   - pip:
     - useful-rdkit-utils 
+    - shap
