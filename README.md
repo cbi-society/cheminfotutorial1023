@@ -34,6 +34,8 @@ material for cheminfo tutorial
  - ターミナルより以下のコマンドを実行してください。必要なライブラリとVSFlowのインストールがおこなわれます。
  
 ```
+$ git clone https://github.com/cbi-society/cheminfotutorial1023.git
+$ cd cheminfotutorial1023
 $ conda config --append channels conda-forge
 $ conda env create -f environment.yml
 $ conda activate cbi2023
