@@ -27,7 +27,7 @@ def prep_moleclue(mol, canon_taut=True, get_large_frag=True):
     std_mol = # ToDo molを正規化しましょう
     parent_mol, exclude = #ToDo 親分子（本体）を取るメソッドを書きましょう
     if exclude:
-        #ToDo 除外金属を持つ分子は処理しないのでNoneを返します。
+        # 除外金属を持つ分子は処理しないのでNoneを返します。
         return None
     if get_large_frag:
         lfc = rdMolStandardize.LargestFragmentChooser()
