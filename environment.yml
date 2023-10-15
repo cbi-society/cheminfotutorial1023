@@ -16,7 +16,7 @@ dependencies:
   - matplotlib
   - scikit-learn
   - openpyxl
-  - bokeh
+  - bokeh==3.2.2
   - opentsne
   - lightgbm
   - optuna
