@@ -49,6 +49,10 @@ $ pip install .
 
 - インストールが上手く行かない等のトラブルがあった場合は当日までに[Discussions](https://github.com/cbi-society/cheminfotutorial1023/discussions)で質問してください。
 
+## chminfo_utils.pyに関して
+- 当日のチュートリアルでは穴埋め問題として検討していただきましたが、チュートリアルが終わりましたのでコードは動く形で公開することといたしました。
+- python test_util.py　とコマンドを打つことでテストを実施できます。
+
 ## Author
  - 大川 和史（旭化成ファーマ株式会社）
  - 芹沢 貴之（第一三共株式会社）
