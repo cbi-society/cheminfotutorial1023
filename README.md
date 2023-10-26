@@ -49,11 +49,6 @@ $ pip install .
 
 - インストールが上手く行かない等のトラブルがあった場合は当日までに[Discussions](https://github.com/cbi-society/cheminfotutorial1023/discussions)で質問してください。
 
-## 事後アンケート
-
-今後のハンズオンセッションの参考にさせていただくために[アンケート](https://docs.google.com/forms/d/18RsZ_M91SykSEMzZkdsCrPxNTdQ0fa5OYgxl287xAeo/edit)にご協力よろしくお願いします。
-
-
 ## Author
  - 大川 和史（旭化成ファーマ株式会社）
  - 芹沢 貴之（第一三共株式会社）
